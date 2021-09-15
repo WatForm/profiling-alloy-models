@@ -1,4 +1,4 @@
-# alloy-models-empirical-analysis
+# profiling-alloy-models
 
 This project contains a number of scripts used to investigate the characteristics and patterns of use of Alloy Models.
 
