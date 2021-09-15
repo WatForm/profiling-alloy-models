@@ -1,0 +1,317 @@
+com/alloyprofiling/patternsofuse/sets/AbstractSigsNoChildren.java
+ com.alloyprofiling.patternsofuse.sets.AbstractSigsNoChildren
+com/alloyprofiling/characteristics/linear/FieldsExt.java
+ com.alloyprofiling.characteristics.linear.FieldsExt
+com/alloyprofiling/patternsofuse/sets/SigsAsStructures.java
+ com.alloyprofiling.patternsofuse.sets.SigsAsStructures
+com/alloyprofiling/characteristics/linear/FieldsNonOneSigs.java
+ com.alloyprofiling.characteristics.linear.FieldsNonOneSigs
+com/alloyprofiling/characteristics/signatures/TopLevelSigs.java
+ com.alloyprofiling.characteristics.signatures.TopLevelSigs
+com/alloyprofiling/unused/SFRC_NoDup.java
+ com.alloyprofiling.unused.SFRC_NoDup
+com/alloyprofiling/characteristics/signatures/OneSigsFields.java
+ com.alloyprofiling.characteristics.signatures.OneSigsFields
+com/alloyprofiling/patternsofuse/sets/SetHierarchyTrees.java
+ com.alloyprofiling.patternsofuse.sets.SetHierarchyTrees
+com/alloyprofiling/characteristics/lengthspan/ModelSpan.java
+ com.alloyprofiling.characteristics.lengthspan.ModelSpan
+com/alloyprofiling/unused/analysis/Imports.java
+ com.alloyprofiling.unused.analysis.Imports
+com/alloyprofiling/ALLOYLexer.java
+ com.alloyprofiling.ALLOYLexer
+com/alloyprofiling/analysiscomplexity/OverallPartialFuncs.java
+ com.alloyprofiling.analysiscomplexity.OverallPartialFuncs
+com/alloyprofiling/unused/FSC_NoDuplicates.java
+ com.alloyprofiling.unused.FSC_NoDuplicates
+com/alloyprofiling/analysiscomplexity/depthjoinsquant/DepthJoin.java
+ com.alloyprofiling.analysiscomplexity.depthjoinsquant.DepthJoin
+com/alloyprofiling/patternsofuse/formulas/SetReferences.java
+ com.alloyprofiling.patternsofuse.formulas.SetReferences
+com/alloyprofiling/patternsofuse/integers/SetCardEqualConst.java
+ com.alloyprofiling.patternsofuse.integers.SetCardEqualConst
+com/alloyprofiling/analysiscomplexity/OverallTotalFuncs.java
+ com.alloyprofiling.analysiscomplexity.OverallTotalFuncs
+com/alloyprofiling/ALLOYParser.java
+ com.alloyprofiling.ALLOYParser
+ com.alloyprofiling.ALLOYParser$AbsContext
+ com.alloyprofiling.ALLOYParser$Abs_multiplicityContext
+ com.alloyprofiling.ALLOYParser$AddContext
+ com.alloyprofiling.ALLOYParser$ArrowOpContext
+ com.alloyprofiling.ALLOYParser$As_name_optContext
+ com.alloyprofiling.ALLOYParser$AssertDeclContext
+ com.alloyprofiling.ALLOYParser$BarContext
+ com.alloyprofiling.ALLOYParser$BinOpContext
+ com.alloyprofiling.ALLOYParser$Bit_shifter_operatorsContext
+ com.alloyprofiling.ALLOYParser$BlockContext
+ com.alloyprofiling.ALLOYParser$BlockOrBarContext
+ com.alloyprofiling.ALLOYParser$Block_optContext
+ com.alloyprofiling.ALLOYParser$But_typescopesContext
+ com.alloyprofiling.ALLOYParser$CmdDeclContext
+ com.alloyprofiling.ALLOYParser$Comma_optContext
+ com.alloyprofiling.ALLOYParser$CompareOpContext
+ com.alloyprofiling.ALLOYParser$Const_setsContext
+ com.alloyprofiling.ALLOYParser$ConstantContext
+ com.alloyprofiling.ALLOYParser$DeclContext
+ com.alloyprofiling.ALLOYParser$DeclsContext
+ com.alloyprofiling.ALLOYParser$Decls_eContext
+ com.alloyprofiling.ALLOYParser$Decls_fContext
+ com.alloyprofiling.ALLOYParser$DisjContext
+ com.alloyprofiling.ALLOYParser$DisjFuncContext
+ com.alloyprofiling.ALLOYParser$DisjointContext
+ com.alloyprofiling.ALLOYParser$DotOpContext
+ com.alloyprofiling.ALLOYParser$EnumDeclContext
+ com.alloyprofiling.ALLOYParser$Exactly_optContext
+ com.alloyprofiling.ALLOYParser$Expect_digitContext
+ com.alloyprofiling.ALLOYParser$ExprContext
+ com.alloyprofiling.ALLOYParser$ExprsContext
+ com.alloyprofiling.ALLOYParser$FactDeclContext
+ com.alloyprofiling.ALLOYParser$FunDeclContext
+ com.alloyprofiling.ALLOYParser$FunExprContext
+ com.alloyprofiling.ALLOYParser$LetDeclContext
+ com.alloyprofiling.ALLOYParser$MacroContext
+ com.alloyprofiling.ALLOYParser$Macro_exprContext
+ com.alloyprofiling.ALLOYParser$ModuleContext
+ com.alloyprofiling.ALLOYParser$MultContext
+ com.alloyprofiling.ALLOYParser$Mult_or_setContext
+ com.alloyprofiling.ALLOYParser$MultiplicityContext
+ com.alloyprofiling.ALLOYParser$NameContext
+ com.alloyprofiling.ALLOYParser$NameIDContext
+ com.alloyprofiling.ALLOYParser$NameOrBlockContext
+ com.alloyprofiling.ALLOYParser$Name_cmd_optContext
+ com.alloyprofiling.ALLOYParser$Name_optContext
+ com.alloyprofiling.ALLOYParser$NamesContext
+ com.alloyprofiling.ALLOYParser$Names_optContext
+ com.alloyprofiling.ALLOYParser$NotOpContext
+ com.alloyprofiling.ALLOYParser$NumContext
+ com.alloyprofiling.ALLOYParser$NumberContext
+ com.alloyprofiling.ALLOYParser$OpenContext
+ com.alloyprofiling.ALLOYParser$ParaDeclsContext
+ com.alloyprofiling.ALLOYParser$ParaDecls_optContext
+ com.alloyprofiling.ALLOYParser$Para_openContext
+ com.alloyprofiling.ALLOYParser$ParagraphContext
+ com.alloyprofiling.ALLOYParser$PredDeclContext
+ com.alloyprofiling.ALLOYParser$PrivContext
+ com.alloyprofiling.ALLOYParser$QuantContext
+ com.alloyprofiling.ALLOYParser$Rel_operatorsContext
+ com.alloyprofiling.ALLOYParser$Run_or_checkContext
+ com.alloyprofiling.ALLOYParser$ScopeContext
+ com.alloyprofiling.ALLOYParser$Scope_optContext
+ com.alloyprofiling.ALLOYParser$SetCardContext
+ com.alloyprofiling.ALLOYParser$SigDeclContext
+ com.alloyprofiling.ALLOYParser$SigExtContext
+ com.alloyprofiling.ALLOYParser$SigExtensionContext
+ com.alloyprofiling.ALLOYParser$SpecificationContext
+ com.alloyprofiling.ALLOYParser$SubContext
+ com.alloyprofiling.ALLOYParser$SuperSetContext
+ com.alloyprofiling.ALLOYParser$TcOpContext
+ com.alloyprofiling.ALLOYParser$TypescopeContext
+ com.alloyprofiling.ALLOYParser$TypescopesContext
+ com.alloyprofiling.ALLOYParser$UnOpContext
+ com.alloyprofiling.ALLOYParser$UnionContext
+com/alloyprofiling/patternsofuse/integers/IntegerOrdering.java
+ com.alloyprofiling.patternsofuse.integers.IntegerOrdering
+com/alloyprofiling/characteristics/ProfilerCharacs.java
+ com.alloyprofiling.characteristics.ProfilerCharacs
+com/alloyprofiling/characteristics/constraints/RunCheck.java
+ com.alloyprofiling.characteristics.constraints.RunCheck
+com/alloyprofiling/unused/TCComplexity.java
+ com.alloyprofiling.unused.TCComplexity
+com/alloyprofiling/characteristics/signatures/SubsetSigs.java
+ com.alloyprofiling.characteristics.signatures.SubsetSigs
+com/alloyprofiling/characteristics/cornercases/RelUnionDiff.java
+ com.alloyprofiling.characteristics.cornercases.RelUnionDiff
+com/alloyprofiling/analysiscomplexity/depthjoinsquant/DepthQuantification.java
+ com.alloyprofiling.analysiscomplexity.depthjoinsquant.DepthQuantification
+com/alloyprofiling/unused/PredicateDecls.java
+ com.alloyprofiling.unused.PredicateDecls
+com/alloyprofiling/analysis/Imports.java
+ com.alloyprofiling.analysis.Imports
+com/alloyprofiling/unused/IntegerLib.java
+ com.alloyprofiling.unused.IntegerLib
+com/alloyprofiling/characteristics/signatures/InheritedFields.java
+ com.alloyprofiling.characteristics.signatures.InheritedFields
+com/alloyprofiling/unused/UnusedSets.java
+ com.alloyprofiling.unused.UnusedSets
+com/alloyprofiling/unused/SubsetSetHierarchy.java
+ com.alloyprofiling.unused.SubsetSetHierarchy
+com/alloyprofiling/characteristics/signatures/AverageFields.java
+ com.alloyprofiling.characteristics.signatures.AverageFields
+com/alloyprofiling/characteristics/constraints/Functions.java
+ com.alloyprofiling.characteristics.constraints.Functions
+com/alloyprofiling/characteristics/lengthspan/ModelLength.java
+ com.alloyprofiling.characteristics.lengthspan.ModelLength
+com/alloyprofiling/ALLOYBaseListener.java
+ com.alloyprofiling.ALLOYBaseListener
+com/alloyprofiling/patternsofuse/scopes/Scopes.java
+ com.alloyprofiling.patternsofuse.scopes.Scopes
+com/alloyprofiling/characteristics/signatures/Signatures.java
+ com.alloyprofiling.characteristics.signatures.Signatures
+com/alloyprofiling/characteristics/signatures/Scalars.java
+ com.alloyprofiling.characteristics.signatures.Scalars
+com/alloyprofiling/retrievers/AssertionRetriever.java
+ com.alloyprofiling.retrievers.AssertionRetriever
+com/alloyprofiling/characteristics/formulas/Formulas.java
+ com.alloyprofiling.characteristics.formulas.Formulas
+com/alloyprofiling/TestModels.java
+ com.alloyprofiling.TestModels
+com/alloyprofiling/characteristics/linear/LengthSetsFormulas.java
+ com.alloyprofiling.characteristics.linear.LengthSetsFormulas
+com/alloyprofiling/characteristics/linear/Predicates.java
+ com.alloyprofiling.characteristics.linear.Predicates
+com/alloyprofiling/analysiscomplexity/partialtotalfuncs/PartialFuncs_util.java
+ com.alloyprofiling.analysiscomplexity.partialtotalfuncs.PartialFuncs_util
+com/alloyprofiling/characteristics/signatures/ExtensionSigs.java
+ com.alloyprofiling.characteristics.signatures.ExtensionSigs
+com/alloyprofiling/analysiscomplexity/DepthJoin.java
+ com.alloyprofiling.analysiscomplexity.DepthJoin
+com/alloyprofiling/analysiscomplexity/RelationArity.java
+ com.alloyprofiling.analysiscomplexity.RelationArity
+com/alloyprofiling/unused/SetReferences.java
+ com.alloyprofiling.unused.SetReferences
+com/alloyprofiling/characteristics/formulas/FormulasExpanded.java
+ com.alloyprofiling.characteristics.formulas.FormulasExpanded
+com/alloyprofiling/unused/SignaturesSkipsMods.java
+ com.alloyprofiling.unused.SignaturesSkipsMods
+com/alloyprofiling/patternsofuse/scopes/ScopeLevels.java
+ com.alloyprofiling.patternsofuse.scopes.ScopeLevels
+com/alloyprofiling/unused/SFRC.java
+ com.alloyprofiling.unused.SFRC
+com/alloyprofiling/patternsofuse/sets/Quantification.java
+ com.alloyprofiling.patternsofuse.sets.Quantification
+com/alloyprofiling/characteristics/cornercases/Constants.java
+ com.alloyprofiling.characteristics.cornercases.Constants
+com/alloyprofiling/patternsofuse/sets/SCG.java
+ com.alloyprofiling.patternsofuse.sets.SCG
+com/alloyprofiling/patternsofuse/ProfilerPatterns.java
+ com.alloyprofiling.patternsofuse.ProfilerPatterns
+com/alloyprofiling/unused/Formulas.java
+ com.alloyprofiling.unused.Formulas
+com/alloyprofiling/analysiscomplexity/TCComplexity.java
+ com.alloyprofiling.analysiscomplexity.TCComplexity
+com/alloyprofiling/unused/LinesOfCode.java
+ com.alloyprofiling.unused.LinesOfCode
+com/alloyprofiling/characteristics/constraints/Predicates.java
+ com.alloyprofiling.characteristics.constraints.Predicates
+com/alloyprofiling/unused/NOF.java
+ com.alloyprofiling.unused.NOF
+com/alloyprofiling/characteristics/linear/LengthModules.java
+ com.alloyprofiling.characteristics.linear.LengthModules
+com/alloyprofiling/analysiscomplexity/TCOperators.java
+ com.alloyprofiling.analysiscomplexity.TCOperators
+com/alloyprofiling/characteristics/signatures/Fields.java
+ com.alloyprofiling.characteristics.signatures.Fields
+com/alloyprofiling/characteristics/linear/SigHierarchy.java
+ com.alloyprofiling.characteristics.linear.SigHierarchy
+com/alloyprofiling/patternsofuse/modules/ModuleUse.java
+ com.alloyprofiling.patternsofuse.modules.ModuleUse
+com/alloyprofiling/analysiscomplexity/PartialFuncs.java
+ com.alloyprofiling.analysiscomplexity.PartialFuncs
+com/alloyprofiling/characteristics/cornercases/UnionSuperset.java
+ com.alloyprofiling.characteristics.cornercases.UnionSuperset
+com/alloyprofiling/characteristics/signatures/FieldSigsRatio.java
+ com.alloyprofiling.characteristics.signatures.FieldSigsRatio
+com/alloyprofiling/characteristics/linear/CmdHolders.java
+ com.alloyprofiling.characteristics.linear.CmdHolders
+com/alloyprofiling/characteristics/constraints/CheckForms.java
+ com.alloyprofiling.characteristics.constraints.CheckForms
+com/alloyprofiling/characteristics/constraints/SigFacts.java
+ com.alloyprofiling.characteristics.constraints.SigFacts
+com/alloyprofiling/characteristics/signatures/AbstractSigs.java
+ com.alloyprofiling.characteristics.signatures.AbstractSigs
+com/alloyprofiling/unused/MultipleInheritance.java
+ com.alloyprofiling.unused.MultipleInheritance
+com/alloyprofiling/analysiscomplexity/partialtotalfuncs/TotalFuncs.java
+ com.alloyprofiling.analysiscomplexity.partialtotalfuncs.TotalFuncs
+com/alloyprofiling/unused/analysis/makeCSV.java
+ com.alloyprofiling.unused.analysis.makeCSV
+com/alloyprofiling/unused/FunctionDecls.java
+ com.alloyprofiling.unused.FunctionDecls
+com/alloyprofiling/patternsofuse/modules/IntegerLibrary.java
+ com.alloyprofiling.patternsofuse.modules.IntegerLibrary
+com/alloyprofiling/analysiscomplexity/partialtotalfuncs/TotalFuncs_util.java
+ com.alloyprofiling.analysiscomplexity.partialtotalfuncs.TotalFuncs_util
+com/alloyprofiling/patternsofuse/scopes/ScopeTopSub.java
+ com.alloyprofiling.patternsofuse.scopes.ScopeTopSub
+com/alloyprofiling/characteristics/linear/FieldsSub.java
+ com.alloyprofiling.characteristics.linear.FieldsSub
+com/alloyprofiling/patternsofuse/sets/AbstractSigsNoFields.java
+ com.alloyprofiling.patternsofuse.sets.AbstractSigsNoFields
+com/alloyprofiling/analysiscomplexity/partialtotalfuncs/OverallTotalFuncs.java
+ com.alloyprofiling.analysiscomplexity.partialtotalfuncs.OverallTotalFuncs
+com/alloyprofiling/analysiscomplexity/SetCardinality.java
+ com.alloyprofiling.analysiscomplexity.SetCardinality
+com/alloyprofiling/analysiscomplexity/secondorderoperators/TCOperators.java
+ com.alloyprofiling.analysiscomplexity.secondorderoperators.TCOperators
+com/alloyprofiling/characteristics/constraints/RunForms.java
+ com.alloyprofiling.characteristics.constraints.RunForms
+com/alloyprofiling/analysiscomplexity/TotalFuncs.java
+ com.alloyprofiling.analysiscomplexity.TotalFuncs
+com/alloyprofiling/retrievers/FunctionRetriever.java
+ com.alloyprofiling.retrievers.FunctionRetriever
+com/alloyprofiling/patternsofuse/sets/SubsetSetHierarchy.java
+ com.alloyprofiling.patternsofuse.sets.SubsetSetHierarchy
+com/alloyprofiling/characteristics/constraints/Assertions.java
+ com.alloyprofiling.characteristics.constraints.Assertions
+com/alloyprofiling/characteristics/lengthspan/LinesOfCode.java
+ com.alloyprofiling.characteristics.lengthspan.LinesOfCode
+com/alloyprofiling/analysiscomplexity/TotalFuncs_util.java
+ com.alloyprofiling.analysiscomplexity.TotalFuncs_util
+com/alloyprofiling/analysis/makeCSV.java
+ com.alloyprofiling.analysis.makeCSV
+com/alloyprofiling/analysiscomplexity/secondorderoperators/SetCardinality.java
+ com.alloyprofiling.analysiscomplexity.secondorderoperators.SetCardinality
+com/alloyprofiling/patternsofuse/sets/UnusedSets.java
+ com.alloyprofiling.patternsofuse.sets.UnusedSets
+com/alloyprofiling/patternsofuse/integers/IntegerUse.java
+ com.alloyprofiling.patternsofuse.integers.IntegerUse
+com/alloyprofiling/unused/AverageFields.java
+ com.alloyprofiling.unused.AverageFields
+com/alloyprofiling/unused/ModelSpan.java
+ com.alloyprofiling.unused.ModelSpan
+com/alloyprofiling/retrievers/RelationRetriever.java
+ com.alloyprofiling.retrievers.RelationRetriever
+com/alloyprofiling/characteristics/linear/FieldsTopSigs.java
+ com.alloyprofiling.characteristics.linear.FieldsTopSigs
+com/alloyprofiling/patternsofuse/scopes/IntegerScopes.java
+ com.alloyprofiling.patternsofuse.scopes.IntegerScopes
+com/alloyprofiling/analysiscomplexity/arity/FieldArity.java
+ com.alloyprofiling.analysiscomplexity.arity.FieldArity
+com/alloyprofiling/ALLOYListener.java
+ com.alloyprofiling.ALLOYListener
+com/alloyprofiling/retrievers/EnumRetriever.java
+ com.alloyprofiling.retrievers.EnumRetriever
+com/alloyprofiling/characteristics/constraints/Facts.java
+ com.alloyprofiling.characteristics.constraints.Facts
+com/alloyprofiling/characteristics/cornercases/Macros.java
+ com.alloyprofiling.characteristics.cornercases.Macros
+com/alloyprofiling/retrievers/PredicateRetriever.java
+ com.alloyprofiling.retrievers.PredicateRetriever
+com/alloyprofiling/analysiscomplexity/DepthQuantification.java
+ com.alloyprofiling.analysiscomplexity.DepthQuantification
+com/alloyprofiling/patternsofuse/formulas/FormulaStyles.java
+ com.alloyprofiling.patternsofuse.formulas.FormulaStyles
+com/alloyprofiling/retrievers/SigRetriever.java
+ com.alloyprofiling.retrievers.SigRetriever
+com/alloyprofiling/characteristics/cornercases/BitshiftingOperators.java
+ com.alloyprofiling.characteristics.cornercases.BitshiftingOperators
+com/alloyprofiling/patternsofuse/modules/ModuleUseModels.java
+ com.alloyprofiling.patternsofuse.modules.ModuleUseModels
+com/alloyprofiling/analysiscomplexity/partialtotalfuncs/OverallPartialFuncs.java
+ com.alloyprofiling.analysiscomplexity.partialtotalfuncs.OverallPartialFuncs
+com/alloyprofiling/patternsofuse/scopes/OrderingNonExact.java
+ com.alloyprofiling.patternsofuse.scopes.OrderingNonExact
+com/alloyprofiling/analysiscomplexity/PartialFuncs_util.java
+ com.alloyprofiling.analysiscomplexity.PartialFuncs_util
+com/alloyprofiling/unused/FRI.java
+ com.alloyprofiling.unused.FRI
+com/alloyprofiling/ResultWriter.java
+ com.alloyprofiling.ResultWriter
+com/alloyprofiling/analysiscomplexity/partialtotalfuncs/PartialFuncs.java
+ com.alloyprofiling.analysiscomplexity.partialtotalfuncs.PartialFuncs
+com/alloyprofiling/analysiscomplexity/ProfilerComplexity.java
+ com.alloyprofiling.analysiscomplexity.ProfilerComplexity
+com/alloyprofiling/characteristics/linear/SigsPredicates.java
+ com.alloyprofiling.characteristics.linear.SigsPredicates
+com/alloyprofiling/characteristics/constraints/FormulasExpanded.java
+ com.alloyprofiling.characteristics.constraints.FormulasExpanded

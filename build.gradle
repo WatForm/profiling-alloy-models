@@ -1,0 +1,69 @@
+plugins {
+    id 'java'
+    id 'antlr'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+task characsJar(type: Jar) {
+    duplicatesStrategy = 'include'
+    archiveFileName = 'profiler-characs.jar'
+    manifest {
+        attributes 'Main-Class': 'com.alloyprofiling.characteristics.ProfilerCharacs'
+    }
+    archiveClassifier = "all"
+    from {
+        exclude '**/module-info.class'
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    with jar
+}
+
+task patternsJar(type: Jar) {
+    duplicatesStrategy = 'include'
+    archiveFileName = 'profiler-patterns.jar'
+    manifest {
+        attributes 'Main-Class': 'com.alloyprofiling.patternsofuse.ProfilerPatterns'
+    }
+    archiveClassifier = "all"
+    from {
+        exclude '**/module-info.class'
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    with jar
+}
+
+task complexityJar(type: Jar) {
+    duplicatesStrategy = 'include'
+    archiveFileName = 'profiler-complexity.jar'
+    manifest {
+        attributes 'Main-Class': 'com.alloyprofiling.analysiscomplexity.ProfilerComplexity'
+    }
+    archiveClassifier = "all"
+    from {
+        exclude '**/module-info.class'
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    with jar
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    antlr 'org.antlr:antlr4:4.7.1'
+    implementation 'com.scalified:tree:0.2.5'
+    implementation group: 'org.jgrapht', name: 'jgrapht-ext', version:'1.5.0'
+    implementation group: 'com.google.guava', name: 'guava', version: '23.5-jre'
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.11'
+    implementation group: 'com.opencsv', name: 'opencsv', version: '4.1'
+
+}
+
+test {
+    useJUnitPlatform()
+}
