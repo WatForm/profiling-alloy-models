@@ -275,3 +275,48 @@ Running the "SetCardinality.java" script using the ```setcardinality``` command 
  ~~~
 
 **Note**: the "unused" package contains unused scripts that may or may not be complete/operational. 
+
+## Expert Models
+
+The expert models used in this study were drawn from the following sources:
+
+* chord-pamela-zave: 
+	
+  Zave, Pamela. “Reasoning About Identifier Spaces: How to Make Chord Correct.” IEEE transactions on software engineering 43.12 (2017): 1144–1156. Web.
+
+* 2scxlb3tbo5bmvmwplglqils7a5uarmx-talks: Streamlined Causal Consistency (SCC) Model (NVIDIA Copyright)
+* 3zltn65gds66b6f4q3lvbtgdkb6snmuu-alloy: 
+ 
+  Baugh J, Altuntas A. Formal methods and finite element analysis of hurricane storm surge: A case study in software verification. Science of computer programming. 2018;158:100-121. doi:10.1016/j.scico.2017.08.012
+
+* 7d25ioxqmue65lp6ntzz735gpbg4fmgq-amazon-snapshot-spec: 
+	
+ 	Cahill M, Röhm U, Fekete A. Serializable isolation for snapshot databases. ACM transactions on database systems. 2009;34(4):1-42. doi:10.1145/1620585.1620587
+
+* 7z32luflamhdcixvt6nwznnud4oi6dbr-MSV: 
+	* lc-lenses.als:
+	Macedo, Nuno & Pacheco, Hugo & Cunha, Alcino & Oliveira, José. (2013). Composing Least-change Lenses. Electronic Communications of the EASST. 57. 10.14279/tuj.eceasst.57.868. 
+	* ertms_1A.als: Hoang, Thai Son, Michael Butler, and Klaus Reichl. “The Hybrid ERTMS/ETCS Level 3 Case Study.” Abstract State Machines, Alloy, B, TLA, VDM, and Z. Cham: Springer International Publishing, 2018. 251–261. Web.
+	* etl_scd.als, fm2cfs.als: Oliveira, Bruno, Orlando Belo, and Nuno Macedo. “Towards a Formal Validation of ETL Patterns Behaviour.” Model and Data Engineering. Cham: Springer International Publishing, 2016. 156–165. Web.
+	* OLAPUsagePrefs.als: R. Carvalho, A. Cunha, N. Macedo and A. Santos, "Verification of system-wide safety properties of ROS applications," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 7249-7254, doi: 10.1109/IROS45743.2020.9341085.
+	* farmer_pt.als, HotelLocking: Nuno Macedo
+Assistant Professor @ FEUP & INESC TEC https://nmacedo.github.io/
+	* CD2DBS_keys: Macedo, Nuno, Tiago Guimarães, and Alcino Cunha. “Model Repair and Transformation with Echo.” Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering. IEEE Press, 2013. 694–697. Web.
+	* CD2BDS_simple: Macedo, Nuno, and Alcino Cunha. “Implementing QVT-R Bidirectional Model Transformations Using Alloy.” Fundamental Approaches to Software Engineering. Berlin, Heidelberg: Springer Berlin Heidelberg. 297–311. Web.
+	* ElevatorSPL: Classen, Andreas et al. “Symbolic Model Checking of Software Product Lines.” Proceedings of the 33rd International Conference on Software Engineering. ACM, 2011. 321–330. Web.
+	* NHSM.als: Macedo, Nuno, and Alcino Cunha. “Least-Change Bidirectional Model Transformation with QVT-R and ATL.” Software and systems modeling 15.3 (2014): 783–810. Web.
+*  lkicptlz3eklrbu7ppmltlkebwrvzhdq-zigbee-alloy-svn-to-git: ZigBee/IEEE 802.15.4 stack of network protocols written by Andrey Kupriyanov https://www.react.uni-saarland.de/people/kupriyanov.html
+* oujlbmnutprdhddstyudppn7t35n43os-CANBus/CANBus.als:17: https://freesoft.dev/program/122067057 
+* 3zltn65gds66b6f4q3lvbtgdkb6snmuu-alloy:
+  Baugh, John, and Alper Altuntas. “Formal Methods and Finite Element Analysis of Hurricane Storm Surge: A Case Study in Software Verification.” Science of computer programming 158 (2018): 100–121. Web.
+* 5x4l2fj5nfbq3cz2dumwdt57g3kig3rd-litmustestgen: NVIDIA Copyrighted models https://github.com/NVlabs/litmustestgen
+* gumxtrzzbkrtwi7jtwyu7eibi3fwhgmf-models:
+	* 
+
+
+
+
+
+	
+
+
