@@ -35,7 +35,7 @@ public class IntegerOrdering {
 
     public static void main(String[] args) {
         //results directory path
-        String directoryName = "Results\\PatternsOfUse\\Modules\\";
+        String directoryName = "Results\\PatternsOfUse\\Integers\\";
 
         //creating directory if it doesn't exist
         File directory = new File(directoryName);
