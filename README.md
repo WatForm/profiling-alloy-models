@@ -286,12 +286,10 @@ The expert models used in this study were drawn from the following sources:
 
 * 2scxlb3tbo5bmvmwplglqils7a5uarmx-talks: Streamlined Causal Consistency (SCC) Model (NVIDIA Copyright)
 * 3zltn65gds66b6f4q3lvbtgdkb6snmuu-alloy: 
- 
+
   Baugh J, Altuntas A. Formal methods and finite element analysis of hurricane storm surge: A case study in software verification. Science of computer programming. 2018;158:100-121. doi:10.1016/j.scico.2017.08.012
 
-* 7d25ioxqmue65lp6ntzz735gpbg4fmgq-amazon-snapshot-spec: 
-	
- 	Cahill M, Röhm U, Fekete A. Serializable isolation for snapshot databases. ACM transactions on database systems. 2009;34(4):1-42. doi:10.1145/1620585.1620587
+* 7d25ioxqmue65lp6ntzz735gpbg4fmgq-amazon-snapshot-spec: Cahill M, Röhm U, Fekete A. Serializable isolation for snapshot databases. ACM transactions on database systems. 2009;34(4):1-42. doi:10.1145/1620585.1620587
 
 * 7z32luflamhdcixvt6nwznnud4oi6dbr-MSV: 
 	* lc-lenses.als:
@@ -300,7 +298,7 @@ The expert models used in this study were drawn from the following sources:
 	* etl_scd.als, fm2cfs.als: Oliveira, Bruno, Orlando Belo, and Nuno Macedo. “Towards a Formal Validation of ETL Patterns Behaviour.” Model and Data Engineering. Cham: Springer International Publishing, 2016. 156–165. Web.
 	* OLAPUsagePrefs.als: R. Carvalho, A. Cunha, N. Macedo and A. Santos, "Verification of system-wide safety properties of ROS applications," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 7249-7254, doi: 10.1109/IROS45743.2020.9341085.
 	* farmer_pt.als, HotelLocking: Nuno Macedo
-Assistant Professor @ FEUP & INESC TEC https://nmacedo.github.io/
+	Assistant Professor @ FEUP & INESC TEC https://nmacedo.github.io/
 	* CD2DBS_keys: Macedo, Nuno, Tiago Guimarães, and Alcino Cunha. “Model Repair and Transformation with Echo.” Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering. IEEE Press, 2013. 694–697. Web.
 	* CD2BDS_simple: Macedo, Nuno, and Alcino Cunha. “Implementing QVT-R Bidirectional Model Transformations Using Alloy.” Fundamental Approaches to Software Engineering. Berlin, Heidelberg: Springer Berlin Heidelberg. 297–311. Web.
 	* ElevatorSPL: Classen, Andreas et al. “Symbolic Model Checking of Software Product Lines.” Proceedings of the 33rd International Conference on Software Engineering. ACM, 2011. 321–330. Web.
@@ -317,6 +315,5 @@ Assistant Professor @ FEUP & INESC TEC https://nmacedo.github.io/
 
 
 
-	
-
+​	
 
