@@ -309,7 +309,35 @@ The expert models used in this study were drawn from the following sources:
   Baugh, John, and Alper Altuntas. “Formal Methods and Finite Element Analysis of Hurricane Storm Surge: A Case Study in Software Verification.” Science of computer programming 158 (2018): 100–121. Web.
 * 5x4l2fj5nfbq3cz2dumwdt57g3kig3rd-litmustestgen: NVIDIA Copyrighted models https://github.com/NVlabs/litmustestgen
 * gumxtrzzbkrtwi7jtwyu7eibi3fwhgmf-models:
-	* 
+   * algorithms/discovery: Models an Intentional Naming System (INS), a scheme for dynamic resource discovery in a dynamic environment. MIT Computer Science & Artificial Intelligence Laboratory. Sarfraz Khurshid, http://sdg.lcs.mit.edu/pubs/2000/INS_ASE00.pdf
+   * algorithms/distributed-hashtable: Models the chord distributed hash table lookup protocol. MIT Computer Science & Artificial Intelligence Laboratory. http://www.pdos.lcs.mit.edu/papers/chord:sigcomm01/ 
+   * algorithms/gc: Model of mark and sweep garbage collection.MIT Computer Science & Artificial Intelligence Laboratory.
+   * algorithms/mapping: Model of views in object-oriented programming. MIT Computer Science & Artificial Intelligence Laboratory. Written by Daniel Jackson.
+   * algorithms/multicasting: Taghdiri, M., & Jackson, D. (2003). A Lightweight Formal Analysis of a Multicast Key Management Scheme. FORTE.
+   * algorithms/mutex:
+       * dijkstra-2-process.als: E. W. Dijkstra, Cooperating sequential processes. Technological University, Eindhoven, The Netherlands, September 1965.Reprinted in Programming Languages, F. Genuys, Ed., Academic Press, New York, 1968, 43-112.
+       * dijkstra-K-state.als: E.W.Dijkstra, "Self-Stabilizing Systems in Spite of  Distributed Control", Comm. ACM, vol. 17, no. 11, pp. 643-644, Nov. 1974
+       * peterson.als: Model of Peterson's algorithm for mutual exclusion of n processes. The names kept similar to Murphi specification to make correspondence clear. MIT Computer Science & Artificial Intelligence Laboratory
+   * algorithms/synchronisation: Model of a generic file synchronizer. Written by Tina Nolte.
+http://sdg.lcs.mit.edu/pubs/theses/tnolte_masters.pdf 
+   * ietf-rfcs: The 'Basic' HTTP Authentication Scheme. https://tools.ietf.org/html/rfc7617
+   * models/java/java-maps.als: A partial formal definition of a Map in Java. Peter Kriens. http://aqute.biz/2017/07/15/Alloy.html
+   * models/java/java-types.als, models/java/javatypes-soundness.als:
+     Model of the Java type system written by Daniel Jackson.
+   * models/microsoft-com: Model of Microsoft Component Object Model (COM) query interface and aggregation mechanism. Written by Daniel Jackson. http://sdg.lcs.mit.edu/~dnj/publications/com-fse00.pdf
+   * models/railway: A simple model of a railway system written by Danile Jackson.
+   * paper-examples: Jackson, Daniel. “Alloy: a Language and Tool for Exploring Software Designs.” Communications of the ACM 62.9 (2019): 66–76. Web.
+   * puzzles, utilities, simple models, logic: CSAIL MIT. https://www.csail.mit.edu/
+
+
+
+
+
+
+
+ 
+ 
+
 
 
 
