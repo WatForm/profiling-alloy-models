@@ -307,7 +307,8 @@ The expert models used in this study were drawn from the following sources:
 * oujlbmnutprdhddstyudppn7t35n43os-CANBus/CANBus.als:17: https://freesoft.dev/program/122067057 
 * 3zltn65gds66b6f4q3lvbtgdkb6snmuu-alloy:
   Baugh, John, and Alper Altuntas. “Formal Methods and Finite Element Analysis of Hurricane Storm Surge: A Case Study in Software Verification.” Science of computer programming 158 (2018): 100–121. Web.
-* 5x4l2fj5nfbq3cz2dumwdt57g3kig3rd-litmustestgen: NVIDIA Copyrighted models https://github.com/NVlabs/litmustestgen
+* 5x4l2fj5nfbq3cz2dumwdt57g3kig3rd-litmustestgen: 
+  Lustig, Daniel et al. “Automated Synthesis of Comprehensive Memory Model Litmus Test Suites.” Operating systems review 51.2 (2017): 661–675. Web.
 * gumxtrzzbkrtwi7jtwyu7eibi3fwhgmf-models:
    * algorithms/discovery: Models an Intentional Naming System (INS), a scheme for dynamic resource discovery in a dynamic environment. MIT Computer Science & Artificial Intelligence Laboratory. Sarfraz Khurshid, http://sdg.lcs.mit.edu/pubs/2000/INS_ASE00.pdf
    * algorithms/distributed-hashtable: Models the chord distributed hash table lookup protocol. MIT Computer Science & Artificial Intelligence Laboratory. http://www.pdos.lcs.mit.edu/papers/chord:sigcomm01/ 
